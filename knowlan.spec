@@ -8,6 +8,7 @@ URL: 		http://www.enderunix.org/knowlan/
 Source0:	http://www.enderunix.org/knowlan/%{name}-%{version}-RELEASE.tar.bz2
 BuildRequires:	net2-devel
 BuildRequires:	libpcap-devel >= 0.7.2
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Knowlan is ARP protocol based Local Area Network IP and MAC Adress Extractor.
