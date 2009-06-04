@@ -1,12 +1,12 @@
 Summary:	Knowlan is ARP protocol based Local Area Network IP and MAC Adress Extractor
 Name:		knowlan
 Version:	1.0
-Release:	%mkrel 5
+Release:	%mkrel 6
 License:	GPL
 Group: 		Monitoring
 URL: 		http://www.enderunix.org/knowlan/
 Source0:	http://www.enderunix.org/knowlan/%{name}-%{version}-RELEASE.tar.bz2
-BuildRequires:	net2-devel
+BuildRequires:	net-devel >= 1.1.3
 BuildRequires:	libpcap-devel >= 0.7.2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
