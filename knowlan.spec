@@ -1,4 +1,4 @@
-Summary:	Knowlan is ARP protocol based Local Area Network IP and MAC Adress Extractor
+Summary:	Is ARP protocol based Local Area Network IP and MAC Adress Extractor
 Name:		knowlan
 Version:	1.0
 Release:	%mkrel 7
