@@ -1,7 +1,7 @@
 Summary:	ARP protocol based Local Area Network IP and MAC Adress Extractor
 Name:		knowlan
 Version:	1.0
-Release:	8
+Release:	9
 License:	GPL
 Group: 		Monitoring
 URL: 		http://www.enderunix.org/knowlan/
