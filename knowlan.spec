@@ -4,7 +4,7 @@ Version:	1.0
 Release:	9
 License:	GPL
 Group: 		Monitoring
-URL: 		http://www.enderunix.org/knowlan/
+URL: 		https://www.enderunix.org/knowlan/
 Source0:	http://www.enderunix.org/knowlan/%{name}-%{version}-RELEASE.tar.bz2
 BuildRequires:	net-devel >= 1.1.3
 BuildRequires:	libpcap-devel >= 0.7.2
